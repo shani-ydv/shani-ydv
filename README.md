@@ -1,3 +1,8 @@
+![👋 Hi, my name is Shani Yadav](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=shani-ydv&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
 <h1 align="center">Hi 👋, I'm Shani Yadav</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
